@@ -19,8 +19,6 @@ if not s then
     return
 end
 
-local mon = peripheral.find("monitor")
-
 -- window creation.
 
 local w,h = term.getSize()
